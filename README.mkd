@@ -1,0 +1,22 @@
+# TDD examples
+
+A collection of examples that showcase how to use the [TDD templates](tdd_templates).
+Each example uses a specific combination of programming language and unit testing framework.
+
+
+## License
+
+**MIT**
+
+See [LICENSE][license-file] for details.
+
+
+## Source
+
+You can get the newest version from the [project's website][project-website].
+
+
+
+[tdd_templates]: https://github.com/makomi/tdd_templates/
+[license-file]: LICENSE
+[project-website]: http://github.com/makomi/tdd_examples/
