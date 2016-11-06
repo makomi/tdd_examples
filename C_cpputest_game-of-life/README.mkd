@@ -1,0 +1,24 @@
+# Conway's "Game of Life" in C with CppUTest
+
+## Rules of the Game
+
+1. Loneliness  
+a living cell with less than 2 neighbours dies
+2. Overcrowding  
+a living cell with more than 3 neighbours dies
+3. Reproduction  
+an empty cell with 3 neighbours comes alive
+4. Stasis  
+a cell with exactly 2 neighbours remains the same
+
+
+## Example
+
+    $ make main
+
+    gen 0
+    ....
+    ....
+    ....
+    ....
+
